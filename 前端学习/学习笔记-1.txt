@@ -1,0 +1,6 @@
+1.<head>和<body>标签:html的组成部分
+2.<link>标签
+3.URL协议格式：
+    scheme://host.domain:port/path/filename
+    port默认80,可不写 scheme:常用协议http ftp https
+    
